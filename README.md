@@ -38,7 +38,7 @@ This project leverages machine learning techniques to recommend the most suitabl
    ```
 
 ## Data
-- **Dataset**: Crop recommendation dataset (source: [Kaggle](https://www.kaggle.com/atharvaingle/crop-recommendation-dataset))
+- **Dataset**: Crop recommendation dataset (source: [Kaggle](https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset))
 - **Features**: N (Nitrogen), P (Phosphorus), K (Potassium), temperature, humidity, pH, rainfall
 - **Target**: Crop (22 different crops)
 - **Preprocessing**: Numerical features were scaled using StandardScaler, and the target variable was encoded using LabelEncoder.
