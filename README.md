@@ -27,7 +27,7 @@ This project leverages machine learning techniques to recommend the most suitabl
    ```
 
 ## Usage
-1. Open the `Crop_Recommendation.ipynb` notebook in Jupyter.
+1. Open the `Crop Recommendation In Agriculture.ipynb` notebook in Jupyter.
 2. Run the cells in order to see the data analysis, preprocessing, model training, and evaluation steps.
 3. To make predictions with the trained model:
    ```python
