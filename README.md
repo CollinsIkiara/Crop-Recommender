@@ -66,5 +66,5 @@ This project demonstrates the potential of combining machine learning and data a
 
 ## Future Improvements
 1. **Integration of Additional Features**: Including more granular environmental data such as soil moisture and crop disease history to improve the recommendation accuracy.
-2. **Real-Time Data**: Incorporating real-time market data to enhance the price forecasting model.
+2. **Real-Time Data**: Incorporating real-time market price data to enhance the revenue forecasting model.
 3. **Deployment**: Deploying the model as a web-based application to allow easy access for farmers and agricultural professionals.
