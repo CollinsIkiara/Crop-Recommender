@@ -1,0 +1,9 @@
+Enter the Nitrogen content in the soil (int):  90
+Enter the Phosphorus content in the soil (int):  42
+Enter the Potassium content in the soil (int):  43
+Enter the Temperature in degrees Celsius (float):  20.88
+Enter the Humidity in % (float):  82
+Enter the pH value of the soil (float):  6.5
+Enter the Rainfall in mm (float):  202.9
+Enter the Area of land in acres (float):  4
+{'Recommended Crop': 'Rice', 'Expected Harvest Weight (kg)': 20000.0, 'Expected Revenue (KES)': 3600000.0}
