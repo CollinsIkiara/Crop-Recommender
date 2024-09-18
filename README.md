@@ -1,7 +1,5 @@
 # Crop Recommendation and Revenue Estimates in Agriculture
 
-### by Collins Ikiara, 2024
-
 ## Project Title
 Machine Learning-Based Crop Recommendation System and Revenue Estimates Analysis
 
